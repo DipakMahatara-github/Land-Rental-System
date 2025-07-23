@@ -1,0 +1,15 @@
+101, Kathmandu, North, 4, 50000, Available, None, None, None, 0
+102, Pokhara, East, 5, 60000, Available, None, None, None, 0
+103, Lalitpur, South, 10, 100000, Available, None, None, None, 0
+104, Nepalgunj, West, 12, 160000, Available, None, None, None, 0
+105, Bhaktapur, North, 6, 100000, Available, None, None, None, 0
+106, Birgunj, North, 4, 80000, Available, None, None, None, 0
+107, Mustang, West, 16, 300000, Available, None, None, None, 0
+108, Manang, East, 9, 90000, Available, None, None, None, 0
+109, Bharatpur, South, 5, 50000, Available, None, None, None, 0
+110, Makwanpur, West, 8, 100000, Available, None, None, None, 0
+111, Panauti, South, 12, 120000, Available, None, None, None, 0
+112, Rara, West, 11, 100000, Available, None, None, None, 0
+113, Mugu, South, 9, 80000, Available, None, None, None, 0
+114, Jhapa, South, 4, 80000, Available, None, None, None, 0
+115, Dhulikhel, North, 3, 10000, Available, None, None, None, 0
